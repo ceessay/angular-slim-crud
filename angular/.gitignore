@@ -1,0 +1,5 @@
+api/composer.lock
+api/vendor/
+api/vendor/*
+node_modules/
+yarn.lock

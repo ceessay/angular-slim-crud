@@ -1,0 +1,15 @@
+{
+  "name": "angular-crud",
+  "version": "1.0.0",
+  "description": "Simple crud for testing jest",
+  "main": "app.js",
+  "repository": " ",
+  "author": "ceessay <mceessay@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.7",
+    "angular": "^1.6.6",
+    "angular-route": "^1.6.6",
+    "bootstrap": "^3.3.7"
+  }
+}
